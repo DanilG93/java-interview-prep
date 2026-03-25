@@ -1,0 +1,33 @@
+# --- Java kompajlirani fajlovi ---
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# --- Build tool folderi (Maven i Gradle) ---
+target/
+build/
+.gradle/
+bin/
+
+# --- IntelliJ IDEA specifični fajlovi ---
+.idea/
+*.iml
+out/
+gen/
+
+# --- Eclipse specifični fajlovi ---
+.settings/
+.metadata/
+.classpath
+.project
+*.tmp
+*.bak
+
+# --- OS specifični fajlovi (smeće iz operativnog sistema) ---
+.DS_Store
+Thumbs.db
+
+# --- Log fajlovi ---
+*.log
