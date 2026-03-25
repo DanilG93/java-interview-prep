@@ -1,4 +1,4 @@
-public class Solution {
+public class TwoSum {
 
 /*
 Given an array of integers nums and an integer target,
